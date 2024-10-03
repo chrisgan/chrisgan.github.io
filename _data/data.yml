@@ -54,13 +54,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have over 10 years commercial experience in E-commerce and website development.
-      With a specialization in backend development, my expertise lies in PHP, Magento, and Laravel,
-      particularly in the realm of e-commerce since 2005.
-      Throughout my career, I have collaborated with esteemed brands including Ancestry, Bacardi,
-      Guinness, World Wildlife Fund, McGraw Hill Publishing, Pernod Ricard, Lloyds Banking Group,
-      Barclays, and Nationwide. My journey with Magento began in 2012, working extensively with Magento 1,
-      and subsequently transitioning to Magento 2 in 2016.
+      I have over 10 years commercial experience in E-commerce and website development. With a specialization in backend development, my expertise lies in PHP, Magento, and Laravel, particularly in the realm of e-commerce since 2005. Throughout my career, I have collaborated with esteemed brands including Ancestry, Bacardi, Guinness, World Wildlife Fund, McGraw Hill Publishing, Pernod Ricard, Lloyds Banking Group, Barclays, and Nationwide. 
+      My journey with Magento began in 2012, working extensively with Magento 1, and subsequently transitioning to Magento 2 in 2016.
 education:
     title: Education
     info:
@@ -83,39 +78,24 @@ experiences:
         time: Jul 2023 - Present
         company: Ambientia, Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Working for the Finland based Ambientia has given me an opportunity to work with many hight profile Finnish clients including:
+            - Halonen and Carlson - Magento 2 
+            - Paytrail - Woo Commerce Payment Plugin
+            - Foodstock - Bespoke Laravel and Vue
       - role: Ecommerce Backend Developer
         time: Feb 2022 - Jul 2023
         company: Shero Commerce, Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Working for the New York based Shero Commere gave me the opportunity to support many US based Magento 2 clients.
       - role: Senior / Lead Magento Developer
         time: Sep 2014 - Feb 2022
         company: CTI Digital, Manchester
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+           Starting as a Magneto 1 developer I spent many years at CTI Digital developing my Magento skills, progressing to Magento 2 development as well.
+           Clients included: 
+            - McGraw Hill Publishing 
+            - Pernod Ricard
+            - English Heritage
       - role: PHP Developer
         time: Aug 2012 - Sep 2014
         company: Assurant Solutions, Crewe, United Kingdom
@@ -149,109 +129,50 @@ certifications:
           credentialurl:
           credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
 
 projects:
-    title: Projects
+    title: Current Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Websites that I have recently worked on.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Halonen
+        link: "https://www.halonen.fi"
+        tagline: "Magento 2"
+      - title: Carlson
+        link: "https://www.carlson.fi"
+        tagline: "Magento 2"
+      - title: Paytrail For Woo Commerce
+        link: "https://github.com/paytrail/paytrail-for-woocommerce"
+        tagline: "WooCommere Payment Gateway Plugin"
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: Magento 2 Configurator 
+        link: "https://github.com/ctidigital/magento2-configurator"
+        tagline: "A tool for managing Magento 2 configuration across environments"
+        
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: PHP
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Magneto 2
+        level: 100%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Laravel
+        level: 75%
+        
+      - name: Wordpress + WooCommere
+        level: 50%
+        
+      - name: Vue
+        level: 25%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
