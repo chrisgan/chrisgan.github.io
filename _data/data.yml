@@ -113,12 +113,11 @@ experiences:
         time: Aug 2012 - Sep 2014
         company: Assurant Solutions, Crewe, United Kingdom
         details: |
-          Developing custom built Magento application for major clients including:
-            - Lloyds Banking Group (Lloyds, Halifax, Bank of Scotland). 
-            - Barclays 
-            - Nationwide
+          Developing custom built Magento application for major banks:
+            - Lloyds Banking Group (Lloyds, Halifax, Bank of Scotland), Barclays, Nationwide,
             - Yorkshire and Clydesdale Bank
-          Developing custom internal applications to support business needs in the Laravel framework.
+          Developing custom internal applications to support business needs in Laravel.
+          Improving internal development practices, implementing Vagrant for managing development machines, and Capistrano for deployment.
       - role: Web Developer
         time: Apr 2005 - Aug 2012
         company: Internet Logistics, Sandbach, United Kingdom
