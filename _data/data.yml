@@ -91,11 +91,24 @@ experiences:
         time: Sep 2014 - Feb 2022
         company: CTI Digital, Manchester
         details: |
-           Starting as a Magneto 1 developer I spent many years at CTI Digital developing my Magento skills, progressing to Magento 2 development as well.
-           Clients included: 
-            - McGraw Hill Publishing 
-            - Pernod Ricard
-            - English Heritage
+          Technical Lead and Backend Magento development with both Magento 1 and 2
+            - Working with clients to plan development sprints to deliver new functionality.
+            - Estimating and story pointing new development tasks
+            - Working with our test team, developing acceptance criteria, supporting QA
+            - Supporting team members, mentoring junior developers, performing code reviews.
+            -  Writing code to enhance and extend Magento’s core functionality.
+            - Building and deploying Magento code to Stage, QA and Live environments
+            - Providing support for escalated issues with production websites.
+          Projects:
+            - High Street TV, Magento 2 Community, highstreettv.com
+            - CPL Distribution, Magento 2 Community, coals2u.co.uk, cpldistribution.co.uk
+            - Aston & Fincher, Magento 2 Community, astonandfincher.co.uk
+            - McGraw Hill, Magento 1 Enterprise / Community, mheducation.com, mhprofessional.com
+            - Body Building Warehouse, Magento 1 Enterprise, bodybuildingwarehouse.co.uk
+            - Little Greene Paint, Magento 1 Enterprise, littlegreene.com
+            - KCS, Magento 1 Enterprise, kcs4education.co.uk
+            - Pernod Ricard, Magento 1 Enterprise, discoverthehouse.com
+            - Imperative Training, Magento 1 Community, defibshop.co.uk
       - role: PHP Developer
         time: Aug 2012 - Sep 2014
         company: Assurant Solutions, Crewe, United Kingdom
