@@ -8,24 +8,24 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Chris Gan
+    tagline: Web Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: example@email.com
     phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: Europe/London # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    website: https://chrisgan.co.uk/ # Include the full website URL, including "http://" or "https://".
+    linkedin: chris-gan-6a895438
+    xing: 
+    github: chrisgan
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: 6898202/chris # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     mastodon:  # Please include your full Mastodon link here.
@@ -38,51 +38,30 @@ sidebar:
       info:
         - idiom: English
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
+          
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Swimming
           link:
 
-        - item: Snowboarding
+        - item: Cycling
           link:
 
-        - item: Cooking
+        - item: Dungeons and Dragons
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I have over 10 years commercial experience in E-commerce and website development.
+With a specialization in backend development, my expertise lies in PHP, Magento, and Laravel, particularly in the realm of e-commerce since 2005. Throughout my career, I have collaborated with esteemed brands including Ancestry, Bacardi, Guinness, World Wildlife Fund, McGraw Hill Publishing, Pernod Ricard, Lloyds Banking Group, Barclays, and Nationwide. My journey with Magento began in 2012, working extensively with Magento 1, and subsequently transitioning to Magento 2 in 2016.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc (Hons) Computing First Class
+        university: University of Central Lancashire, Preston
+        time: 2001 - 2004
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -93,11 +72,31 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software Developer
+        time: Jul 2023 - Present
+        company: Ambientia, Remote
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: Ecommerce Backend Developer
+        time: Feb 2022 - Jul 2023
+        company: Shero Commerce, Remote
+        details: |
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: Senior / Lead Magento Developer
+        time: Sep 2014 - Feb 2022
+        company: CTI Digital, Manchester
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,39 +109,38 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: PHP Developer
+        time: Aug 2012 - Sep 2014
+        company: Assurant Solutions, Crewe, United Kingdom
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Developing custom built Magento application for major clients including:
+            - Lloyds Banking Group (Lloyds, Halifax, Bank of Scotland). 
+            - Barclays 
+            - Nationwide
+            - Yorkshire and Clydesdale Bank
+          Developing custom internal applications to support business needs in the Laravel framework.
+      - role: Web Developer
+        time: Apr 2005 - Aug 2012
+        company: Internet Logistics, Sandbach, United Kingdom
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+          Working as the sole Web developer of bespoke e-commerce websites on a WAMP/LAMP stack, including front end coding in HTML,CSS and Javascript.
+          Clients included: 
+            - Ancestry
+            - Bacardi
+            - Guinness
+            - Scholl
+            - WWF
+            
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
+        - name: Magento Backend Developer
+          start: March 2015
           end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          organization: Magento
+          credentialid: 
+          credentialurl:
+          credentialname: 
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
@@ -157,22 +155,6 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
