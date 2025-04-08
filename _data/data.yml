@@ -171,20 +171,6 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: PHP
-        level: 100%
-
-      - name: Magneto 2
-        level: 100%
-
-      - name: Laravel
-        level: 75%
-        
-      - name: Wordpress + WooCommere
-        level: 50%
-        
-      - name: Vue
-        level: 25%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
