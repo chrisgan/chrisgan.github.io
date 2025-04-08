@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Chris Gan
-    tagline: Web Developer
+    tagline: E-Commerce Software Developer
     avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -40,36 +40,28 @@ sidebar:
           level: Native
           
     interests:
-      title: Interests
-      info:
-        - item: Swimming
-          link:
-
-        - item: Cycling
-          link:
-
-        - item: Dungeons and Dragons
-          link:
-
+     
 career-profile:
     title: Career Profile
     summary: |
-      I have over 10 years commercial experience in E-commerce and website development. With a specialization in backend development, my expertise lies in PHP, Magento, and Laravel, particularly in the realm of e-commerce since 2005. Throughout my career, I have collaborated with esteemed brands including Ancestry, Bacardi, Guinness, World Wildlife Fund, McGraw Hill Publishing, Pernod Ricard, Lloyds Banking Group, Barclays, and Nationwide. 
-      My journey with Magento began in 2012, working extensively with Magento 1, and subsequently transitioning to Magento 2 in 2016.
+      I am an experienced software developer with a focus on PHP and e-commerce since 2005.
+      I have worked extensively with Magento since 2012, but also have experience building bespoke solutions with frameworks such as Laravel.
+      In the past year I have enhanced my knowledge of Wordpress and WooCommerce whilst working on a payment gateway plugin.
 education:
     title: Education
     info:
       - degree: BSc (Hons) Computing First Class
         university: University of Central Lancashire, Preston
         time: 2001 - 2004
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details:
+      - degree: A Levels, Computing and Mathematics
+        university: Nelson and Colne College, Nelson
+        time: 1999 - 2001
+        details:
+      - degree: GCSE’s
+        university: Gawthorpe High School, Burnley
+        time: 1994 - 1999
+        details:
 
 experiences:
     title: Experience
@@ -78,64 +70,34 @@ experiences:
         time: Jul 2023 - Present
         company: Ambientia, Remote
         details: |
-          Working for the Finland based Ambientia has given me an opportunity to work with many hight profile Finnish clients including:
-            - Halonen and Carlson - Magento 2 
-            - Paytrail - Woo Commerce Payment Plugin
-            - Foodstock - Bespoke Laravel and Vue
+          Working as the Lead developer on several Magento websites, alongside working with Paytrail on their WooCommerce payment gateway plugin.
       - role: Ecommerce Backend Developer
         time: Feb 2022 - Jul 2023
         company: Shero Commerce, Remote
         details: |
-          Working for the New York based Shero Commere gave me the opportunity to support many US based Magento 2 clients.
+          Developed and maintained Magento 2 websites with a focus on backend functionality, including custom modules, integrations, and performance optimization. 
       - role: Senior / Lead Magento Developer
         time: Sep 2014 - Feb 2022
         company: CTI Digital, Manchester
         details: |
-          Technical Lead and Backend Magento development with both Magento 1 and 2
-            - Working with clients to plan development sprints to deliver new functionality.
-            - Estimating and story pointing new development tasks
-            - Working with our test team, developing acceptance criteria, supporting QA
-            - Supporting team members, mentoring junior developers, performing code reviews.
-            -  Writing code to enhance and extend Magento’s core functionality.
-            - Building and deploying Magento code to Stage, QA and Live environments
-            - Providing support for escalated issues with production websites.
-          Projects:
-            - High Street TV, Magento 2 Community, highstreettv.com
-            - CPL Distribution, Magento 2 Community, coals2u.co.uk, cpldistribution.co.uk
-            - Aston & Fincher, Magento 2 Community, astonandfincher.co.uk
-            - McGraw Hill, Magento 1 Enterprise / Community, mheducation.com, mhprofessional.com
-            - Body Building Warehouse, Magento 1 Enterprise, bodybuildingwarehouse.co.uk
-            - Little Greene Paint, Magento 1 Enterprise, littlegreene.com
-            - KCS, Magento 1 Enterprise, kcs4education.co.uk
-            - Pernod Ricard, Magento 1 Enterprise, discoverthehouse.com
-            - Imperative Training, Magento 1 Community, defibshop.co.uk
+            Technical Lead for Magento 1 and 2 backend development, responsible for sprint planning, task estimation, and defining acceptance criteria. Mentored junior developers, conducted code reviews, and collaborated with QA. Hands-on coding to extend core Magento functionality, manage deployments across environments, and support production issues.
       - role: PHP Developer
         time: Aug 2012 - Sep 2014
         company: Assurant Solutions, Crewe, United Kingdom
         details: |
-          Developing custom built Magento application for major banks:
-            - Lloyds Banking Group (Lloyds, Halifax, Bank of Scotland), Barclays, Nationwide,
-            - Yorkshire and Clydesdale Bank
-          Developing custom internal applications to support business needs in Laravel.
-          Improving internal development practices, implementing Vagrant for managing development machines, and Capistrano for deployment.
+          Developed custom Magento applications for major banks and internal Laravel tools to support business needs.
       - role: Web Developer
         time: Apr 2005 - Aug 2012
         company: Internet Logistics, Sandbach, United Kingdom
         details: |
-          Working as the sole Web developer of bespoke e-commerce websites on a WAMP/LAMP stack, including front end coding in HTML,CSS and Javascript.
-          Clients included: 
-            - Ancestry
-            - Bacardi
-            - Guinness
-            - Scholl
-            - WWF
+          Developer responsible for both frontend and backend development of a bespoke PHP based e-commerce platform.
             
 certifications:
       title: Certifications
       list:
         - name: Magento Backend Developer
           start: March 2015
-          end: 2021
+          end:
           organization: Magento
           credentialid: 
           credentialurl:
