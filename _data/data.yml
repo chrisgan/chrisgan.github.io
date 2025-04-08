@@ -44,9 +44,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am an experienced software developer with a focus on PHP and e-commerce since 2005.
+      An experienced software developer with a focus on PHP and e-commerce since 2005.
+      Working with clients including Ancestry, Bacardi, Guinness, World Wildlife Fund, McGraw Hill Publishing, Pernod Ricard, Lloyds Banking Group, Barclays, and Nationwide
       I have worked extensively with Magento since 2012, but also have experience building bespoke solutions with frameworks such as Laravel.
-      In the past year I have enhanced my knowledge of Wordpress and WooCommerce whilst working on a payment gateway plugin.
+      In the past year I have enhanced my knowledge of Wordpress and WooCommerce working with Paytrail on their payment gateway plugin.
 education:
     title: Education
     info:
