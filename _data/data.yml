@@ -109,15 +109,15 @@ projects:
     intro: >
       A few examples of my current work
     assignments:
-      - title: Halonen - https://www.halonen.fi
+      - title: Halonen (Magento 2)
         link: "https://www.halonen.fi"
-        tagline: "Magento 2"
-      - title: Carlson - https://www.carlson.fi
+        tagline: "https://www.halonen.fi"
+      - title: Carlson (Magento 2)
         link: "https://www.carlson.fi"
-        tagline: "Magento 2"
-      - title: Paytrail For Woo Commerce - https://github.com/paytrail/paytrail-for-woocommerce
+        tagline: "https://www.carlson.fi"
+      - title: Paytrail For Woo Commerce
         link: "https://github.com/paytrail/paytrail-for-woocommerce"
-        tagline: "WooCommere Payment Gateway Plugin"
+        tagline: "https://github.com/paytrail/paytrail-for-woocommerce"
 
 oss:
     title: OSS Contributions
