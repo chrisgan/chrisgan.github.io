@@ -44,10 +44,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      An experienced software developer with a focus on PHP and e-commerce since 2005.
-      Working with clients including Ancestry, Bacardi, Guinness, World Wildlife Fund, McGraw Hill Publishing, Pernod Ricard, Lloyds Banking Group, Barclays, and Nationwide
-      I have worked extensively with Magento since 2012, but also have experience building bespoke solutions with frameworks such as Laravel.
-      In the past year I have enhanced my knowledge of Wordpress and WooCommerce working with Paytrail on their payment gateway plugin.
+      Software developer working in the industry since 2005, with a focus on PHP and e-commerce. 
+      Experienced in delivering solutions for a range of clients, from global brands (Guinness, World Wildlife Fund) to major publishers (McGraw Hill), and leading banks (Lloyds Banking Group, Barclays, Nationwide). 
+      Working extensively with Magento since 2012 but also experienced at building solutions with frameworks such as Laravel. 
+      Recent work has also included collaborating with Paytrail on enhancements to their WooCommerce plugin
 education:
     title: Education
     info:
