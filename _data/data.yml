@@ -72,13 +72,13 @@ experiences:
         company: Ambientia, Remote
         details: |
           Lead Magento developer responsible for architecture and implementation across multiple websites, including complex ERP integration and migration projects. 
-          Backend developer for a custom B2B platform built with Laravel and Vue.js.
+          Backend developer for a custom B2B platform built with Laravel and Vue.
           Collaborated directly with Paytrail to enhance and maintain their WooCommerce payment gateway plugin.
       - role: Ecommerce Backend Developer
         time: Feb 2022 - Jul 2023
         company: Shero Commerce, Remote
         details: |
-          Developed and maintained Magento 2 websites with a focus on backend functionality, including custom modules, integrations, and performance optimization. 
+          Developed and maintained Magento 2 websites with a focus on backend functionality, including custom modules, integrations, and performance optimisation. 
       - role: Senior / Lead Magento Developer
         time: Sep 2014 - Feb 2022
         company: CTI Digital, Manchester
@@ -103,7 +103,7 @@ certifications:
           end:
           organization: Frontend Masters
           credentialid: 
-          credentialurl: https://static.frontendmasters.com/ud/c/19452565c0/hixpadIGiV/complete-react-v9.pdf
+          credentialurl: 
           credentialname: 
           details: |
         - name: Magento Backend Developer
@@ -137,7 +137,7 @@ oss:
     contributions:
       - title: Magento 2 Configurator 
         link: "https://github.com/ctidigital/magento2-configurator"
-        tagline: "A tool for managing Magento 2 configuration across environments"
+        tagline: "https://github.com/ctidigital/magento2-configurator"
         
 publications:
 
