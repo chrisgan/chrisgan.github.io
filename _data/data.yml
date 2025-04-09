@@ -104,7 +104,6 @@ certifications:
           credentialurl: https://static.frontendmasters.com/ud/c/19452565c0/hixpadIGiV/complete-react-v9.pdf
           credentialname: 
           details: |
-      list:
         - name: Magento Backend Developer
           start: March 2015
           end:
