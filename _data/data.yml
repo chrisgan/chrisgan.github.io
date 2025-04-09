@@ -96,6 +96,15 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: Complete Intro to React
+          start: Jan 2025
+          end:
+          organization: Frontend Masters
+          credentialid: 
+          credentialurl: https://static.frontendmasters.com/ud/c/19452565c0/hixpadIGiV/complete-react-v9.pdf
+          credentialname: 
+          details: |
+      list:
         - name: Magento Backend Developer
           start: March 2015
           end:
@@ -104,6 +113,7 @@ certifications:
           credentialurl:
           credentialname: 
           details: |
+        
 
 projects:
     title: Current Projects
