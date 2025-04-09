@@ -13,8 +13,8 @@ sidebar:
     avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
+    email: 
+    phone: 
     timezone: Europe/London # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://chrisgan.co.uk/ # Include the full website URL, including "http://" or "https://".
@@ -108,7 +108,7 @@ certifications:
 projects:
     title: Current Projects
     intro: >
-      A few examples of my current work
+      Examples of my current work
     assignments:
       - title: Halonen (Magento 2)
         link: "https://www.halonen.fi"
